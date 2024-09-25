@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="H5P_Author">
+    <organization identifier="H5P_Author">
+      <title>Penjelajah Phyta (Teorema Pythagoras)</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>Penjelajah Phyta (Teorema Pythagoras)</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="audios/audio-Ndl5PKeL.mp3"/>
+      <file href="audios/audio-cEMvELIO.mp3"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/image-0dWiTcKU.png"/>
+      <file href="images/image-1TKo6ocw.jpg"/>
+      <file href="images/image-2YNFGATI.png"/>
+      <file href="images/image-3gUyASbk.jpg"/>
+      <file href="images/image-5yh1EVDV.jpg"/>
+      <file href="images/image-B16hu4Pv.png"/>
+      <file href="images/image-BYvfxmgm.png"/>
+      <file href="images/image-C89trHvT.jpg"/>
+      <file href="images/image-D4WVpWgr.jpg"/>
+      <file href="images/image-GL9ahlO0.png"/>
+      <file href="images/image-ISnltMN5.png"/>
+      <file href="images/image-O8EGRb9l.png"/>
+      <file href="images/image-PlgbhFY1.jpg"/>
+      <file href="images/image-SSFEXF7X.jpg"/>
+      <file href="images/image-TXDudwVh.jpg"/>
+      <file href="images/image-TngoZtvG.jpg"/>
+      <file href="images/image-U8JRuKrx.jpg"/>
+      <file href="images/image-W0u52tBN.jpg"/>
+      <file href="images/image-ZRtyxsni.jpg"/>
+      <file href="images/image-kWxBx4rH.jpg"/>
+      <file href="images/image-mN1T1hpK.png"/>
+      <file href="images/image-mV4575KH.jpg"/>
+      <file href="images/image-yXPZj7y4.png"/>
+      <file href="index.html"/>
+      <file href="videos/video-5cYMHrp6.mp4"/>
+      <file href="videos/video-JBRtplAo.mp4"/>
+      <file href="videos/video-L1GgiY1w.mp4"/>
+      <file href="videos/video-RjRgeZJm.mp4"/>
+      <file href="videos/video-S2PmEEdX.mp4"/>
+      <file href="videos/video-ewPHZOuh.mp4"/>
+      <file href="videos/video-vdGc4Rxy.mp4"/>
+    </resource>
+  </resources>
+</manifest>
